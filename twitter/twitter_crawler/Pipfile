@@ -5,6 +5,8 @@ name = "pypi"
 
 [packages]
 twitter-crawler = "*"
+flask = "*"
+gunicorn = "*"
 
 [dev-packages]
 
